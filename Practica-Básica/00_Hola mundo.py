@@ -1,7 +1,7 @@
 # inicio practica del Python 02/05/2024
 
 
-#FORMA DE HACER UN PRINT EN PYTHON---->Comebtario de una sola linea
+#FORMA DE HACER UN PRINT EN PYTHON---->Comentario de una sola linea
 print("Hola mundo!")
 
 """
