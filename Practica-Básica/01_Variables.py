@@ -70,6 +70,7 @@ print("Tipo al ingresar",type(edadB))
 
 print("Tipo al convertir",type(int(edadB)))
 
+
 #se puede forzar a que una variable sea de un tipo de dato especifico con la funcion de conversion
 
 tipo = str = "tipo 01"
