@@ -22,3 +22,12 @@ print("El módulo de los 2 números es:", modulo)
 print("El exponente de los 2 números es:", exponente)
 print("La división entera de los 2 números es:", division_entera)
 print("¿El número 1 es mayor que el número 2?:", mayor_que)
+
+#Ejercicio 2
+
+#declarqacion de variables STR
+
+nombre = input("ingrese su nombre: ")
+apellido = input ("Ingrese su apellido:")
+
+print("Hola", nombre, apellido)
